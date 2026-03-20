@@ -13,7 +13,7 @@ dependencies:
 
   flutter_background_service_plus_platform_interface: ^5.1.2
   flutter_background_service_plus_android: ^6.3.1
-  flutter_background_service_plus_ios: ^5.0.3
+  flutter_background_service_plus_ios: ^5.0.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
