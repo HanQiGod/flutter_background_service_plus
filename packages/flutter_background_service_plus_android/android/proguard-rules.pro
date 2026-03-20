@@ -1,0 +1,2 @@
+-keep class id.flutter.flutter_background_service_plus.** { *; }
+-keepclassmembers class id.flutter.flutter_background_service_plus.** {*;}

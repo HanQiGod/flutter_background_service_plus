@@ -1,0 +1,35 @@
+name: flutter_background_service_plus
+description: Flutter 升级3.35.7之后，对flutter_background_service插件的升级（After Flutter upgrade 3.35.7, the upgrade of flutter_background_service plugins.）。
+version: 6.0.0
+homepage: https://github.com/HanQiGod/flutter_background_service_plus
+
+environment:
+  sdk: ">=2.17.5 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_background_service_plus_platform_interface: ^5.1.2
+  flutter_background_service_plus_android: ^6.3.1
+  flutter_background_service_plus_ios: ^5.0.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # This section identifies this Flutter project as a plugin project.
+  # The 'pluginClass' and Android 'package' identifiers should not ordinarily
+  # be modified. They are used by the tooling to maintain consistency when
+  # adding or updating assets for this project.
+  plugin:
+    platforms:
+      android:
+        default_package: flutter_background_service_plus_android
+      ios:
+        default_package: flutter_background_service_plus_ios

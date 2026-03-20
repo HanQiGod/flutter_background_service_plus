@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_background_service_plus/melos_flutter_background_service_plus.iml" filepath="$PROJECT_DIR$/packages/flutter_background_service_plus/melos_flutter_background_service_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_background_service_plus_android/melos_flutter_background_service_plus_android.iml" filepath="$PROJECT_DIR$/packages/flutter_background_service_plus_android/melos_flutter_background_service_plus_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_background_service_plus_ios/melos_flutter_background_service_plus_ios.iml" filepath="$PROJECT_DIR$/packages/flutter_background_service_plus_ios/melos_flutter_background_service_plus_ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_flutter_background_service_plus.iml" filepath="$PROJECT_DIR$/melos_flutter_background_service_plus.iml" />
+    </modules>
+  </component>
+</project>
